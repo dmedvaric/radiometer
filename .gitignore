@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Recorded data (put a small example into docs/images/ instead)
+*.csv
+
+# EDA tools (KiCad / Eagle)
+*-backups/
+*.bak
+*.lck
+*.b#*
+*.s#*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+~$*.docx
+.vscode/
